@@ -1,0 +1,30 @@
+.ingredients{
+    float: left
+}
+.quantites{
+   float: right;
+}
+body {
+
+    margin: 10px;
+    /*max-width: 650px;*/
+    padding: 10px;
+    background-color: white;
+
+
+    height: 800px;
+    height: 800px;
+}
+.btn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px 0 22px 0;
+    border: none;
+    cursor: pointer;
+    /*width: 100%;*/
+    opacity: 0.9;
+}
+.btn:hover {
+    opacity: 1;
+}
